@@ -1,8 +1,8 @@
 ## E-commerce Website
 
-Link: https://ecommerce-website-theta.vercel.app/
+[Link]: https://ecommerce-website-theta.vercel.app/
 
-Open [screenshot](https://github.com/LyonWang25/ecommerce_website/blob/main/Desktop.png)
+![screenshot](https://github.com/LyonWang25/ecommerce_website/blob/main/Desktop.png)
 
 ## Skill I use
 
