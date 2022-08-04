@@ -26,3 +26,5 @@ credit card: 4242 4242 4242 4242
 04/24 code: 424
 
 TO check out the payment 
+
+![screenshot](https://github.com/LyonWang25/ecommerce_website/blob/main/check%20out.png)
