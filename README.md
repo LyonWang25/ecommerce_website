@@ -7,10 +7,12 @@ Link: https://ecommerce-website-theta.vercel.app/
 ## Skill I use
 
 -React, Hooks&Refs, createContext, useScontext
--Next.js, File-based Routing, Data Fetching, Server -side rendering
+
+-Next.js, File-based Routing, Data Fetching, Server-side rendering
 
 ## Tool I use
 
 -Use Stripe to manage the payments, Products, shipping Rates, entire checkout process
+
 
 -Use SANITY to manage the content.
