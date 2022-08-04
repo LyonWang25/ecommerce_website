@@ -16,3 +16,11 @@ Link: https://ecommerce-website-theta.vercel.app/
 
 
 -Use SANITY to manage the content.
+
+## Test my payment 
+
+You can test my payment by using Stripe test account:
+
+credit card: 4242 4242 4242 4242
+04/24 code: 424
+TO check out the payment 
